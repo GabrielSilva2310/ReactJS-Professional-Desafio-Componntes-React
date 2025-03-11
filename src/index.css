@@ -17,4 +17,20 @@
    
 }
 
+main{
+  width: 100%;
+  max-width: 1200px;
+}
+
+#cards{
+  margin-top: 25px;
+  
+}
+
+.ct-main-text{
+  text-align: center;
+  font-size: 32px;
+}
+
+
 
