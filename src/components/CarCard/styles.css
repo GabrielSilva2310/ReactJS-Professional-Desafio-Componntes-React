@@ -1,4 +1,6 @@
+
 .ct-car-card-container{
+    height: 352px;
     background-color: white;
     border: 1px solid #3C9AF0;
     border-radius: 10px;
@@ -20,4 +22,3 @@
     color: #5E5E5E;
   
 }
-

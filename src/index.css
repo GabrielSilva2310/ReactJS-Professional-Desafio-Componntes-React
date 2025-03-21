@@ -17,20 +17,21 @@
    
 }
 
-main{
+.ct-cards-container{
   width: 100%;
-  max-width: 1200px;
+  max-width: 746px;
+  margin: 0 auto;
+
 }
 
 #cards{
-  margin-top: 25px;
-  
+margin-top: 25px;
+
 }
 
-.ct-main-text{
-  text-align: center;
-  font-size: 32px;
+#cards h2{
+color: #5E5E5E;
+font-size: 32px;
+font-weight: 700;
+text-align: center;
 }
-
-
-

@@ -1,7 +1,6 @@
 
 import NavBar from './components/NavBar'
 import CarCard from './components/CarCard'
-import CardsTitle from './components/CardsTitle'
 
 
 
@@ -13,10 +12,12 @@ export default function App() {
     
     <NavBar/>
     <main>
-      <section id='cards' className='ct-container'>
-        <CardsTitle/>
+      <section id='cards'>
+        <div className='ct-cards-container'>
+        <h2>Venha nos visitar</h2>
         <CarCard/>
         <CarCard/>
+        </div>
       </section>
     </main>
    
