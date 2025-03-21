@@ -10,10 +10,10 @@
 
 
 
-  .ct-container{
-    width: 100%;
-    max-width: 746px;
-    margin: 0 auto;
+.ct-container{
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
    
 }
 
